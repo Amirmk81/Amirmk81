@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Amir!
 #### I am a Computer Science Student At Cal Poly Pomona.
-![(https://github.com/Amirmk81/Amirmk81/blob/main/Black%20Minimal%20Motivation%20Quote%20LinkedIn%20Banner.png)] 
+
 
 Innovative and enthusiastic computer science student passionate about critical thinking/problem-solving and exploring different tech-related fields, planning to become a Software Engineer by the time of graduating.
 
